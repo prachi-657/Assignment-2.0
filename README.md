@@ -64,8 +64,9 @@ A clean and minimal personal portfolio webpage built using basic HTML & CSS. Per
 
 </html>
 ```
-```html
+
 🔴contact.html
+```html
 <!DOCTYPE html>
 <html lang="en">
 
