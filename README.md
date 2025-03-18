@@ -63,7 +63,8 @@ A clean and minimal personal portfolio webpage built using basic HTML & CSS. Per
 </body>
 
 </html>
-
+```
+```html
 🔴contact.html
 <!DOCTYPE html>
 <html lang="en">
@@ -136,3 +137,4 @@ A clean and minimal personal portfolio webpage built using basic HTML & CSS. Per
 </body>
 
 </html>
+```
